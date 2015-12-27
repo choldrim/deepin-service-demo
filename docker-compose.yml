@@ -1,0 +1,4 @@
+test_compose:
+    container_name: deepin
+    image: demo-service
+
